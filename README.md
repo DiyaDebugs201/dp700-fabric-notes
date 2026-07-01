@@ -80,8 +80,3 @@ This repository contains my study notes, revision sheets, comparisons, and exam 
 
 * [ ] Monitoring Hub
 * [ ] Optimization
-
-### Revision
-
-* [ ] Final Revision
-* [ ] Practice Questions
